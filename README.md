@@ -90,3 +90,7 @@ Analyses :
 ./measure <val_n> <warmups> <run_count>
 maqao oneview -R1 -- ./measure <val_n> <warmups> <run_count> # Trace MAQAO
 ```
+
+## Crédits
+
+Les drivers sont codés par Emmanuel Oseret, qui a également encadré le projet avec Kévin Camus.
