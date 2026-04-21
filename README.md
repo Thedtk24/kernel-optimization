@@ -25,7 +25,7 @@ Les tailles $n$ choisies pour cibler spécifiquement les caches du Ryzen 3700U s
 - **Cache L3 (4096 KiB)** : $n = 800$
 
 ### Calibration (Warm-up)
-Les métriques MAQAO soulignent que l'exécution se stabilise à partir de la 4ème itération d'échauffement cache. Par mesure de fiabilité, l'échauffement a été **fixé à 15 répétitions**.
+Les métriques soulignent que l'exécution se stabilise à partir de la 4ème itération d'échauffement cache. Par mesure de fiabilité, l'échauffement a été **fixé à 15 répétitions**.
 
 ## Transformations et Mesures d'Optimisation
 
